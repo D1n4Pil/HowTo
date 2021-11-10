@@ -1,5 +1,42 @@
 *{
-  background-color: red;
+  background-color: #F9F2F2;
+}
+
+ul {
+font-family: 'Roboto Slab', serif;
+  }
+
+li {
+font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+color: #AF473C
+}
 
 
+h2  {
+font-family: 'Montserrat', sans-serif;
+ }
+
+
+h3 {
+font-family: 'Montserrat', sans-serif;
+color: #945D60
+}
+
+
+h4 {
+font-family: 'Montserrat', sans-serif;
+color:#3C3C3C
+}
+
+a {
+font-family: 'Montserrat', sans-serif;
+background-color:#DDC1C1;
+color: #F9F3F3;
+text-decoration: none;
+padding: 8px
 }
